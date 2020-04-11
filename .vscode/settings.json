@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "**/.babelrc": true,
+    "**/.editorconfig": true,
+    "**/.gitignore": true,
+    "**/.nuxt": true,
+    "**/.prettierrc": false,
+    "**/assets": true,
+    "**/components": true,
+    "**/jest.config.js": true,
+    "**/jsconfig.json": true,
+    "**/middleware": true,
+    "**/node_modules": true,
+    "**/nuxt.config.js": true,
+    "**/package-lock.json": true,
+    "**/package.json": true,
+    "**/plugins": true,
+    "**/static": true,
+    "**/test": true
+  }
+}
